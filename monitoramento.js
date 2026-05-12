@@ -7,3 +7,4 @@ console.log("ALERTA: LIMITE EXCEDIDO!");
 } else {
 console.log("Sistema normal.");
 }
+// gustavo ferreira
